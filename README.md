@@ -1,4 +1,4 @@
-# CodeScanner
+# Forked CodeScanner
 
 <p>
     <img src="https://img.shields.io/badge/iOS-13.0+-blue.svg" />
